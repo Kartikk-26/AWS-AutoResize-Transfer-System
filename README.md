@@ -147,5 +147,5 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 ## 📢 Let's Connect!
 - 🔗 Stay updated on [LinkedIn](https://www.linkedin.com/in/-kartikjain/) for more DevOps projects and insights.
 - 🎯 Follow along as I explore **Cloud Infrastructure, Ansible Automation, and DevOps practices**.
-- 🤝 Let's collaborate and build scalable solutions together!
+- 🤝 Let's collaborate and build scalable solutions together!!
 
